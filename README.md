@@ -12,6 +12,7 @@
 - [Frontend with Next.js](#frontend-with-nextjs)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Pipeline](#pipeline)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -135,6 +136,10 @@ cd frontend
 npm run dev
 
 Visit http://localhost:3000 to interact with the chatbot.
+
+## Pipeline
+<img src="https://github.com/DibyaJyotiMahanta/GenAIus/blob/main/GenAIus.png?raw=true" style="min-width:200px;" alt="GenAIus Image">
+
 
 ## Future Improvements
 **End-to-End Integration:** Fully deploy the web application with comprehensive integration of the chatbot to enhance its accessibility.
